@@ -18,6 +18,7 @@ public class SoundManager : MonoBehaviour
     }
 
     // Update is called once per frame
+    // 비주얼 스튜디오 git 연결 테스트중
     void Update()
     {
         
